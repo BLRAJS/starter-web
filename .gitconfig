@@ -1,7 +1,17 @@
 [user]
- name=Bledar Ramo
- email=ramobledar@gmail.com
-[core]
- editor=Microsoft VS Code -w
- [alias]
-  bka=log --all  --decorate --oneline
+        name = Bledar Ramo
+        email = ramobledar@gmail.com
+[alias]
+        hist = log --all --graph --decorate --oneline
+[merge]
+        tool = p4merge
+[mergetool "p4merge"]
+        path = C:/Program Files/Perforce/p4merge.exe
+[diff]
+        tool = p4merge
+[difftool "p4merge"]
+        path = C:/Program Files/Perforce/p4merge.exe
+[difftool]
+        prompt = false
+[mergetool]
+        prompt = false
