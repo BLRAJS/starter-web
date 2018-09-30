@@ -3,3 +3,5 @@
  email=ramobledar@gmail.com
 [core]
  editor=Microsoft VS Code -w
+ [alias]
+  bka=log --all  --decorate --oneline
