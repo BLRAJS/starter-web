@@ -4,3 +4,5 @@ information about projects
 this is the way
 ## Compare
 compare betwen them
+## Copyright
+I just added copyright
