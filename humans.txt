@@ -13,3 +13,8 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
