@@ -1,5 +1,5 @@
 # Starter Web Project
-information about projects
+information about projects m, just a new line
 ## How to contribute
 this is the way
 ## Compare
